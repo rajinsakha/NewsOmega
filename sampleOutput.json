@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Programme TV foot : à quelle heure et sur quelle chaîne voir les matchs de ce soir (25 mars 2023) ?",
+      "description": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Suivez tous les matches en direct sur votre télévision ou en s…",
+      "url": "https://www.lequipe.fr/Football/Actualites/Programme-tv-foot-a-quelle-heure-et-sur-quelle-chaine-voir-les-matchs-de-ce-soir-25-mars-2023/1387877",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/-/1500000001560312/4:0,2500:1664-640-427-75/16a19.jpg",
+      "publishedAt": "2023-03-25T06:01:40+00:00",
+      "content": "Retrouvez l'intégralité des retransmissions des matches de football du jour diffusés sur toutes les chaînes du bouquet TNT, Câble et Satellite. Ligue 1, Ligue 2, Premier League, coupes d'Europe... Su… [+68 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": null,
+      "title": "Grenada vs. United States - Football Match Report - March 24, 2023 - ESPN",
+      "description": "Get a report of the Grenada vs. United States 2022-23 CONCACAF Nations League, League A football match.",
+      "url": "http://espn.go.com/soccer/report?gameId=634307",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1121%2Fr1094541_2_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-03-25T02:22:16.6498675Z",
+      "content": "The U.S. men's national team thumped Grenada 7-1 on the road in its first competitive game since the 2022 World Cup on Friday to move within touching distance of a place in the CONCACAF Nations Leagu… [+2794 chars]"
+    },
+    {
+      "source": { "id": "the-huffington-post", "name": "The Huffington Post" },
+      "author": "Ron Dicker",
+      "title": "Deion Sanders Humiliates His Son In Bench Press And Makes The Coolest Exit",
+      "description": "The Colorado football coach was known for his speed and skills as a two-sport star, but here he showed off his strength.",
+      "url": "https://www.huffpost.com/entry/deion-sanders-bench-press_n_641db071e4b0fef15249fdff",
+      "urlToImage": "https://img.huffingtonpost.com/asset/641dd12224000038000812d6.png?cache=K9JMzSHYPL&ops=1200_630",
+      "publishedAt": "2023-03-24T16:57:17Z",
+      "content": "New University of Colorado football coach Deion Sanders was primed for a bench-press challenge against his oldest son and two other staffers this week. (Watch the video below.)\r\nWearing a hoodie, ove… [+912 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
